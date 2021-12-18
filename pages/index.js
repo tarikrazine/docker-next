@@ -12,7 +12,7 @@ export default function Home() {
       </Head>
 
       <main className={styles.main}>
-        <h1 className={styles.title}>OK!!!</h1>
+        <h1 className={styles.title}>OK!!!!!!!!</h1>
 
         <div className={styles.grid}>
           <a href='https://nextjs.org/docs' className={styles.card}>
